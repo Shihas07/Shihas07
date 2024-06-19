@@ -15,7 +15,6 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -37,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,react" /><br>
 </div>
 
 <br/>
