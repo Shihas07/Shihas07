@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **my dream**
  
- 🌱 I’m currently learning **mern stack**
+
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
